@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerTom", "SerTom\SerTom.csproj", "{548F6BDD-72BB-4863-82F8-1B49755803F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerTom_Test", "SerTom_Test\SerTom_Test.csproj", "{CAF254A7-A17C-4513-A754-AF143629950D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{548F6BDD-72BB-4863-82F8-1B49755803F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548F6BDD-72BB-4863-82F8-1B49755803F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548F6BDD-72BB-4863-82F8-1B49755803F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548F6BDD-72BB-4863-82F8-1B49755803F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF254A7-A17C-4513-A754-AF143629950D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF254A7-A17C-4513-A754-AF143629950D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF254A7-A17C-4513-A754-AF143629950D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF254A7-A17C-4513-A754-AF143629950D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
